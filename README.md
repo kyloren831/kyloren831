@@ -3,6 +3,7 @@
 🎓 **Business Informatics student** (final year) at Universidad de Costa Rica  
 💻 **Backend Developer** passionate about building scalable systems and automating processes  
 🎮 Gamer & tech enthusiast (League of Legends & VALORANT fan)  
+🌌 Star Wars lover | 🐾 Proud pet parent of **Obi** (Chow Chow) & **Naboo** (mixed breed)  
 
 ---
 
@@ -31,8 +32,8 @@
 ---
 
 ## 📫 Connect with Me  
-- LinkedIn  https://www.linkedin.com/in/aaron-m%C3%A9ndez-castro/
-- Email  aaronmc080301@hotmail.com
+- LinkedIn  
+- Email  
 
 ---
 

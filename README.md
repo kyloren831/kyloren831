@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Connect with Me  
-- LinkedIn  
-- Email  
+- LinkedIn  linkedin.com/in/aaron-mendez-castro
+- Email  aaronmc080301@hotmail.com
 
 ---
 
